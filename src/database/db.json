@@ -1,0 +1,40 @@
+{
+  "details": [
+    {
+      "name": "Warje",
+      "location": "Pune Warje",
+      "channel": "Nexa",
+      "region": "W1",
+      "code": "0346-01",
+      "vehicle_tested": "12",
+      "id": 1
+    },
+    {
+      "name": "Katraj",
+      "location": "Pune katraj",
+      "channel": "Arena",
+      "region": "K1",
+      "code": "0347-01",
+      "vehicle_tested": "4",
+      "id": 2
+    },
+    {
+      "name": "Kothrud",
+      "location": "Pune kothrud",
+      "channel": " ",
+      "region": " ",
+      "code": " ",
+      "vehicle_tested": "11",
+      "id": 3
+    },
+    {
+      "name": "Narhe",
+      "location": "Pune Narhe",
+      "channel": " ",
+      "region": " ",
+      "code": " ",
+      "vehicle_tested": "2",
+      "id": 4
+    }
+  ]
+}
